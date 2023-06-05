@@ -1,27 +1,15 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Adeel Nasir</h1>
+<h3 align="center">I am a passionate mobile developer specializing in React Native and other mobile technologies since 2012. Based in Lisbon, Portugal, I am constantly learning and exploring new technologies. I have a deep enthusiasm for mobile development and I am always eager to apply the latest advancements in the field.</h3>
 
-## Introduction
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadisss&label=Profile%20views&color=0e75b6&style=flat" alt="aadisss" /> </p>
 
-I'm [Your Name], a passionate mobile developer based in Lisbon, Portugal. With over 9 years of experience in the field, I have been actively working with React Native and other mobile technologies since 2012. I have a deep passion for mobile app development and enjoy staying up-to-date with the latest advancements in the industry.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adeel-nasir-b01313a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeel-nasir-b01313a5/" height="30" width="40" /></a>
+</p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **React Native**: I have extensive experience in developing mobile applications using React Native. I'm well-versed in building cross-platform apps that deliver native-like performance and user experience.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadisss&show_icons=true&locale=en&layout=compact" alt="aadisss" /></p>
 
-- **JavaScript**: As the primary programming language for React Native development, I have a strong command of JavaScript and its various frameworks and libraries.
-
-- **API Integration**: I'm proficient in integrating with RESTful APIs and have experience working with popular API frameworks and tools.
-
-- **UI/UX Design**: I have a good understanding of UI/UX principles and can create visually appealing and user-friendly interfaces for mobile apps.
-
-## Projects
-
-- **News App**: This project is an example of my work in React Native. It fetches news articles from a free web API and displays them in a scrollable list. The app includes features like fetching data, displaying loading spinners, and rendering news items with titles and descriptions.
-
-## Contact
-
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
