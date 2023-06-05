@@ -9,7 +9,7 @@ This is a React Native project that fetches news articles from a free web API an
 - Renders the news articles in a scrollable list
 - Each news item includes the title and description
 
-## Installation
+# Installation
 
 . Clone the repository:
 
@@ -17,7 +17,7 @@ This is a React Native project that fetches news articles from a free web API an
    git clone https://github.com/your-username/news-app.git
    
    
-Install dependencies:
+# Install dependencies:
 
 bash
 Copy code
